@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Mi Sitio Optimizado - Home',
   description: 'Aprende sobre optimización SEO y rendimiento en Next.js.',
   keywords: ['Next.js', 'SEO', 'optimización web'],
+  verification: {
+    google: 'AZurR9wL23TclSBC9IiKZFjJOyNhNPiXXL-eYYXTUtg',
+  },
   openGraph: {
     title: 'Mi Sitio Optimizado',
     description: 'Descubre técnicas avanzadas para mejorar tu web con Next.js.',
