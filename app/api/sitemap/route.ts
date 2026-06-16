@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-const BASE_URL = "https://mi-sitio.com";
+const BASE_URL = "https://mi-proyecto-seo-1-nd99.onrender.com";
 
 // --- SIMULACIÓN DE UNA BASE DE DATOS O CMS ---
 // Esta función simula una llamada a tu backend para obtener datos dinámicos
